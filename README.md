@@ -12,4 +12,4 @@
  
 ![Image](https://github.com/user-attachments/assets/5d8a103b-44e1-4db6-89c4-fe712893792f)
 [](url)
-### We hope you enjoy the game
+### I hope you enjoy the game

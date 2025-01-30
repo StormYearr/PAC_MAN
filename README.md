@@ -10,5 +10,6 @@
 - Choosing the type of spirit that follows the game between two types of random or stalker
 - Access to the golden stage of the game after passing the normal stages
  
-![WFS2Rz6uPeyKweM](https://github.com/user-attachments/assets/95b9e15f-8acb-4051-bac4-313d3ffaaf0b)
+![Image](https://github.com/user-attachments/assets/5d8a103b-44e1-4db6-89c4-fe712893792f)
+[](url)
 ### We hope you enjoy the game

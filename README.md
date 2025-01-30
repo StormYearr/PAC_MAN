@@ -9,8 +9,6 @@
 - Choose the difficulty level of the game
 - Choosing the type of spirit that follows the game between two types of random or stalker
 - Access to the golden stage of the game after passing the normal stages
- ## Finally ⌛
- - We will eventually have a shared project with the FrontEnd core
  
 ![WFS2Rz6uPeyKweM](https://github.com/user-attachments/assets/95b9e15f-8acb-4051-bac4-313d3ffaaf0b)
 ### We hope you enjoy the game
